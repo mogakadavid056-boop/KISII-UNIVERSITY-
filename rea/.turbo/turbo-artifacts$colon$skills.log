@@ -1,0 +1,6 @@
+
+> rea-agents@6.8.0 artifacts:skills
+> node scripts/generate-skill-metadata.mjs
+
+(node:354) ExperimentalWarning: stripTypeScriptTypes is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)

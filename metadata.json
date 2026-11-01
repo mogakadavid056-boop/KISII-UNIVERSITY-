@@ -1,0 +1,6 @@
+{
+  "name": "REA - Reverse Engineer Anything Workbench & MCP Studio",
+  "description": "Interactive reverse engineering workbench and MCP control center powered by REA (morluto/rea). Explore 230+ reverse engineering tools, execute analyses, inspect binaries and bundles, and test MCP servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
